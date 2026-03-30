@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aadi031200/Leetcode-gfg/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aadi031200/Leetcode-gfg/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
