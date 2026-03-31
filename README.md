@@ -13,17 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aadi031200/Leetcode-gfg/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
