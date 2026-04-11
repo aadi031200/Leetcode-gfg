@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
