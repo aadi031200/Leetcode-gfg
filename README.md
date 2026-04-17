@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Counting Sort
 |  |
