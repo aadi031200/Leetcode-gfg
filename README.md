@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1323-maximum-69-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/aadi031200/Leetcode-gfg/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
 |  |
 | ------- |
