@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/aadi031200/Leetcode-gfg/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
