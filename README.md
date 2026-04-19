@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1470-shuffle-the-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Counting Sort
 |  |
 | ------- |
