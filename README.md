@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadi031200/Leetcode-gfg/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/aadi031200/Leetcode-gfg/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/aadi031200/Leetcode-gfg/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
