@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String
 |  |
 | ------- |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
