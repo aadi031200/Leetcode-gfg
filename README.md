@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadi031200/Leetcode-gfg/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1323-maximum-69-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadi031200/Leetcode-gfg/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Enumeration
 |  |
 | ------- |
