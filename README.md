@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/aadi031200/Leetcode-gfg/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
