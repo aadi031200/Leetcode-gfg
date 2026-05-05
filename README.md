@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aadi031200/Leetcode-gfg/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadi031200/Leetcode-gfg/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
