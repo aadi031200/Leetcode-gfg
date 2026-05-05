@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1137-n-th-tribonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1323-maximum-69-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadi031200/Leetcode-gfg/tree/master/3783-mirror-distance-of-an-integer) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
