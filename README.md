@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
