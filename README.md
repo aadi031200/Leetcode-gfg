@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1470-shuffle-the-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aadi031200/Leetcode-gfg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1323-maximum-69-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aadi031200/Leetcode-gfg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadi031200/Leetcode-gfg/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Hash Table
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aadi031200/Leetcode-gfg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
