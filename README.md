@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadi031200/Leetcode-gfg/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 ## Counting Sort
 |  |
 | ------- |
