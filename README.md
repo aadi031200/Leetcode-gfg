@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3827-count-monobit-integers](https://github.com/aadi031200/Leetcode-gfg/tree/master/3827-count-monobit-integers) |
 ## Trie
 |  |
