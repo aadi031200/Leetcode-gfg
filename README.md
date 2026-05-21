@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/aadi031200/Leetcode-gfg/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aadi031200/Leetcode-gfg/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadi031200/Leetcode-gfg/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/aadi031200/Leetcode-gfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
