@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadi031200/Leetcode-gfg/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Enumeration
 |  |
 | ------- |
