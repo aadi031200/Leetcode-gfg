@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadi031200/Leetcode-gfg/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/aadi031200/Leetcode-gfg/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aadi031200/Leetcode-gfg/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadi031200/Leetcode-gfg/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
