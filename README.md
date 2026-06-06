@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/aadi031200/Leetcode-gfg/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aadi031200/Leetcode-gfg/tree/master/2784-check-if-array-is-good) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -283,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/aadi031200/Leetcode-gfg/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
