@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aadi031200/Leetcode-gfg/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aadi031200/Leetcode-gfg/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadi031200/Leetcode-gfg/tree/master/2367-number-of-arithmetic-triplets) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadi031200/Leetcode-gfg/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadi031200/Leetcode-gfg/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
 | ------- |
