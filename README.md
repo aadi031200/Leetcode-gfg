@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/aadi031200/Leetcode-gfg/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
