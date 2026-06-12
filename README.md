@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aadi031200/Leetcode-gfg/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aadi031200/Leetcode-gfg/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aadi031200/Leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aadi031200/Leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aadi031200/Leetcode-gfg/tree/master/0198-house-robber) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3691-maximum-total-subarray-value-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aadi031200/Leetcode-gfg/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
