@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadi031200/Leetcode-gfg/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadi031200/Leetcode-gfg/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2540-minimum-common-value) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
