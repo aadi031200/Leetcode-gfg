@@ -1,7 +1,6 @@
 class Solution {
     public String processStr(String s) {
-        String result="";
-      StringBuilder sb= new StringBuilder(20);
+       StringBuilder sb= new StringBuilder();
       for(int i=0;i<s.length();i++){
         char ch=s.charAt(i);
         int ascii=(int)ch;
