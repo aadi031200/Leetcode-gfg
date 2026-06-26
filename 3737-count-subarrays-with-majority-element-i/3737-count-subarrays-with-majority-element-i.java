@@ -4,12 +4,10 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int count = 0;
             for (int j = i; j < nums.length; j++) {
-                if (nums[j] == target) {
-                    count++;
-                }
-
-                int len = j - i + 1;
-                if (2 * count > len) {
+                
+                count+=(nums[j]==target?1:-1);
+                //int len = j - i + 1;
+                if (count > 0) {
                     ans++;
                 }
             }
