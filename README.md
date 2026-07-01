@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aadi031200/Leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/aadi031200/Leetcode-gfg/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/aadi031200/Leetcode-gfg/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aadi031200/Leetcode-gfg/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
