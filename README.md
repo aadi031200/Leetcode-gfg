@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aadi031200/Leetcode-gfg/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/aadi031200/Leetcode-gfg/tree/master/2574-left-and-right-sum-differences) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
