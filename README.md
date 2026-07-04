@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aadi031200/Leetcode-gfg/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
