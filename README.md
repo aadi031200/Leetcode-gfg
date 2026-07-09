@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
 | [3838-weighted-word-mapping](https://github.com/aadi031200/Leetcode-gfg/tree/master/3838-weighted-word-mapping) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/aadi031200/Leetcode-gfg/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/aadi031200/Leetcode-gfg/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## String
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/aadi031200/Leetcode-gfg/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/aadi031200/Leetcode-gfg/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/aadi031200/Leetcode-gfg/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/aadi031200/Leetcode-gfg/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
