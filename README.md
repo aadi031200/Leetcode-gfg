@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aadi031200/Leetcode-gfg/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/aadi031200/Leetcode-gfg/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aadi031200/Leetcode-gfg/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
