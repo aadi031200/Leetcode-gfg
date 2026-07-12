@@ -1,9 +1,7 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int[] dup= new int[arr.length];
-        for(int i=0;i<dup.length;i++){
-            dup[i]=arr[i];
-        }
+        int[] dup= arr.clone();
+        
 
         Arrays.sort(dup);
 
@@ -11,8 +9,7 @@ class Solution {
         int count=1;
         for(int i=0;i<dup.length;i++){
             if(!map.containsKey(dup[i])){
-                map.put(dup[i],count);
-                count++;
+                map.put(dup[i],count++);
             }
         }
 
