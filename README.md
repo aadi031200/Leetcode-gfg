@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/aadi031200/Leetcode-gfg/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aadi031200/Leetcode-gfg/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1470-shuffle-the-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadi031200/Leetcode-gfg/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/2553-separate-the-digits-in-an-array) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
+| [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
