@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
+| [0709-to-lower-case](https://github.com/aadi031200/Leetcode-gfg/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
