@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadi031200/Leetcode-gfg/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
