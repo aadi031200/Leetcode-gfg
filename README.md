@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/aadi031200/Leetcode-gfg/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadi031200/Leetcode-gfg/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
