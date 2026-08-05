@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3019-number-of-changing-keys](https://github.com/aadi031200/Leetcode-gfg/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3517-smallest-palindromic-rearrangement-i) |
