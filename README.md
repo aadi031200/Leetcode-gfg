@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadi031200/Leetcode-gfg/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aadi031200/Leetcode-gfg/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/aadi031200/Leetcode-gfg/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/aadi031200/Leetcode-gfg/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadi031200/Leetcode-gfg/tree/master/2367-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/aadi031200/Leetcode-gfg/tree/master/3827-count-monobit-integers) |
