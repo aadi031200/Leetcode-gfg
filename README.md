@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/aadi031200/Leetcode-gfg/tree/master/1550-three-consecutive-odds) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aadi031200/Leetcode-gfg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1672-richest-customer-wealth](https://github.com/aadi031200/Leetcode-gfg/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/aadi031200/Leetcode-gfg/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadi031200/Leetcode-gfg/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/aadi031200/Leetcode-gfg/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/aadi031200/Leetcode-gfg/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/aadi031200/Leetcode-gfg/tree/master/3142-check-if-grid-satisfies-conditions) |
