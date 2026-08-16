@@ -1,20 +1,22 @@
 class Solution {
     public int nearestDrone(int[][] drones, int[] target) {
-        HashMap<Integer,Integer> map= new HashMap<>();
+     int ans=-1;
+     int mindis=Integer.MAX_VALUE;
 
-        for(int i=0;i<drones.length;i++){
-                int ans=0;
-            for(int j=0;j<=1;j++){
+     for(int i=0;i<drones.length;i++){
+        int x=drones[i][0];
+        int y=drones[i][1];
+        int range=drones[i][2];
 
-                ans+=Math.abs(drones[i][j]-target[j]);
+        int distance=Math.abs(x-target[0])+Math.abs(y-target[1]);
+
+        if(distance<=range){
+            if(distance<mindis){
+                mindis=distance;
+                ans=i;
             }
-            if(ans<=drones[i][2]) map.put(i,ans);
         }
-        Integer minKey=null;
-        if(!map.isEmpty()){
-              minKey = Collections.min(map.entrySet(), Map.Entry.comparingByValue()).getKey();
-        }
-
-        return map.isEmpty()? -1:(int)minKey;
+     }   
+     return ans;
     }
 }
