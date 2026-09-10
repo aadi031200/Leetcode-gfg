@@ -395,17 +395,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadi031200/Leetcode-gfg/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadi031200/Leetcode-gfg/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aadi031200/Leetcode-gfg/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadi031200/Leetcode-gfg/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
