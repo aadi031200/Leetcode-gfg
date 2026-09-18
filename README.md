@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aadi031200/Leetcode-gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0216-combination-sum-iii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/aadi031200/Leetcode-gfg/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aadi031200/Leetcode-gfg/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aadi031200/Leetcode-gfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/0628-maximum-product-of-three-numbers) |
