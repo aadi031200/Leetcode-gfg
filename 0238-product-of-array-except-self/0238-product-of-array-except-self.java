@@ -15,11 +15,11 @@ class Solution {
             suff[i] = arr[i + 1] * suff[i + 1];
         }
 
-         int[] ans= new int[n];
-         for(int i=0;i<n;i++){
-            ans[i]=pre[i]*suff[i];
-         }
+        int[] ans = new int[n];
+        for (int i = 0; i < n; i++) {
+            ans[i] = pre[i] * suff[i];
+        }
 
-         return ans;
+        return ans;
     }
 }
