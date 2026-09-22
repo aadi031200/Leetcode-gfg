@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aadi031200/Leetcode-gfg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aadi031200/Leetcode-gfg/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aadi031200/Leetcode-gfg/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aadi031200/Leetcode-gfg/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/aadi031200/Leetcode-gfg/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/3517-smallest-palindromic-rearrangement-i) |
