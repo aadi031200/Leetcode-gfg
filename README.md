@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aadi031200/Leetcode-gfg/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadi031200/Leetcode-gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0682-baseball-game) |
@@ -601,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aadi031200/Leetcode-gfg/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
