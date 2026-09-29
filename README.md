@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/aadi031200/Leetcode-gfg/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/aadi031200/Leetcode-gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadi031200/Leetcode-gfg/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aadi031200/Leetcode-gfg/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aadi031200/Leetcode-gfg/tree/master/0605-can-place-flowers) |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aadi031200/Leetcode-gfg/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
