@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/aadi031200/Leetcode-gfg/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/aadi031200/Leetcode-gfg/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0767-reorganize-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aadi031200/Leetcode-gfg/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/aadi031200/Leetcode-gfg/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aadi031200/Leetcode-gfg/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/aadi031200/Leetcode-gfg/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0977-squares-of-a-sorted-array) |
