@@ -11,8 +11,7 @@ class Solution {
             ans=sum/k;
             i++;
             j++;
-        if(nums.length==k) return sum/k;
-        while(j<nums.length){
+         while(j<nums.length){
             sum=sum-nums[i-1]+nums[j];
             ans=Math.max(ans,sum/k);
             i++;
