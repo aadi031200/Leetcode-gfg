@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aadi031200/Leetcode-gfg/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aadi031200/Leetcode-gfg/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0724-find-pivot-index) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aadi031200/Leetcode-gfg/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadi031200/Leetcode-gfg/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aadi031200/Leetcode-gfg/tree/master/3090-maximum-length-substring-with-two-occurrences) |
