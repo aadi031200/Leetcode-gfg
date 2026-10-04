@@ -1,7 +1,6 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        if(nums.length==1) return nums[0];
-        int i=0;
+         int i=0;
         int j=k-1;
         double sum=0;
         double ans=Integer.MIN_VALUE;
