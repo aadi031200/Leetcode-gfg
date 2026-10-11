@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadi031200/Leetcode-gfg/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadi031200/Leetcode-gfg/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/aadi031200/Leetcode-gfg/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aadi031200/Leetcode-gfg/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aadi031200/Leetcode-gfg/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/aadi031200/Leetcode-gfg/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/aadi031200/Leetcode-gfg/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aadi031200/Leetcode-gfg/tree/master/1386-cinema-seat-allocation) |
