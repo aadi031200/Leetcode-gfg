@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aadi031200/Leetcode-gfg/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/aadi031200/Leetcode-gfg/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadi031200/Leetcode-gfg/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/aadi031200/Leetcode-gfg/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/aadi031200/Leetcode-gfg/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/1927-sum-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadi031200/Leetcode-gfg/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aadi031200/Leetcode-gfg/tree/master/1386-cinema-seat-allocation) |
+| [1657-determine-if-two-strings-are-close](https://github.com/aadi031200/Leetcode-gfg/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aadi031200/Leetcode-gfg/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aadi031200/Leetcode-gfg/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/aadi031200/Leetcode-gfg/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aadi031200/Leetcode-gfg/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/aadi031200/Leetcode-gfg/tree/master/1833-maximum-ice-cream-bars) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aadi031200/Leetcode-gfg/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/0767-reorganize-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/aadi031200/Leetcode-gfg/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/aadi031200/Leetcode-gfg/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadi031200/Leetcode-gfg/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aadi031200/Leetcode-gfg/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
