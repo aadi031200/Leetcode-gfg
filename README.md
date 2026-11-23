@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aadi031200/Leetcode-gfg/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aadi031200/Leetcode-gfg/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aadi031200/Leetcode-gfg/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aadi031200/Leetcode-gfg/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aadi031200/Leetcode-gfg/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/aadi031200/Leetcode-gfg/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aadi031200/Leetcode-gfg/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/1352-product-of-the-last-k-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aadi031200/Leetcode-gfg/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aadi031200/Leetcode-gfg/tree/master/1927-sum-game) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/aadi031200/Leetcode-gfg/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadi031200/Leetcode-gfg/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/aadi031200/Leetcode-gfg/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aadi031200/Leetcode-gfg/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/aadi031200/Leetcode-gfg/tree/master/2574-left-and-right-sum-differences) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aadi031200/Leetcode-gfg/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/1352-product-of-the-last-k-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -740,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadi031200/Leetcode-gfg/tree/master/0700-search-in-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aadi031200/Leetcode-gfg/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
